@@ -17,3 +17,6 @@ Controlar Musicas E Artistas De Músicas Favoritas
  
 * Framework      
  * Bootstrap
+ 
+* IDE
+ * NetBeans
